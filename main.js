@@ -9,7 +9,7 @@ function main(){
     let product = "Apples";
     let quantity = 10;
     buyerFunctions(product, quantity, buyer);
-    // observeMarket(market);
+    // observeMarket(market); #testing
 };
 
 function buyerFunctions(product, quantity, buyer){
